@@ -61,7 +61,7 @@
     <archetype>
       <groupId>edu.uchicago.mpcs53013</groupId>
       <artifactId>hdfs-ingest-weather-archetype</artifactId>
-      <version>1.0.0</version>
+      <version>1.2.0</version>
       <repository>https://oss.sonatype.org/content/repositories/releases</repository>
       <description>Creates an example program that reads NOAA weather and serializes
       to HDFS Thrift sequence files</description>
