@@ -825,29 +825,35 @@
       <artifactId>aws-ingest-weather-archetype</artifactId>
       <version>9.0.0</version>
       <repository>https://oss.sonatype.org/content/repositories/releases</repository>
-      <description>Creates an example program that serializes thrift weather summaries to HDFS sequence files</description>
+      <description>Creates an example program that serializes avro weather summaries to an AWS S3 bucket</description>
     </archetype>
     <archetype>
       <groupId>edu.uchicago.mpcs53013</groupId>
       <artifactId>aws-ingest-weather-archetype</artifactId>
       <version>9.0.1</version>
       <repository>https://oss.sonatype.org/content/repositories/releases</repository>
-      <description>Creates an example program that serializes thrift weather summaries to AWS S3 bucket</description>
+      <description>Creates an example program that serializes avro weather summaries to an AWS S3 bucket</description>
     </archetype>
     <archetype>
       <groupId>edu.uchicago.mpcs53013</groupId>
       <artifactId>aws-ingest-weather-archetype</artifactId>
       <version>9.0.2</version>
       <repository>https://oss.sonatype.org/content/repositories/releases</repository>
-      <description>Creates an example program that serializes thrift weather summaries to AWS S3 bucket</description>
+      <description>Creates an example program that serializes avro weather summaries to an AWS S3 bucket</description>
     </archetype>
     <archetype>
       <groupId>edu.uchicago.mpcs53013</groupId>
       <artifactId>aws-ingest-weather-archetype</artifactId>
       <version>9.0.3</version>
       <repository>https://oss.sonatype.org/content/repositories/releases</repository>
-      <description>Creates an example program that serializes thrift weather summaries to AWS S3 bucket</description>
+      <description>Creates an example program that serializes avro weather summaries to an AWS S3 bucket</description>
+    </archetype>
+    <archetype>
+      <groupId>edu.uchicago.mpcs53013</groupId>
+      <artifactId>aws-ingest-weather-archetype</artifactId>
+      <version>9.0.4</version>
+      <repository>https://oss.sonatype.org/content/repositories/releases</repository>
+      <description>Creates an example program that serializes avro weather summaries to an AWS S3 bucket</description>
     </archetype>
   </archetypes>
-
 </archetype-catalog>
