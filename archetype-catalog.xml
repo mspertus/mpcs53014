@@ -898,4 +898,12 @@
       <description>Create a Spark Scala streaming WordCount program that reads from Kafka</description>
     </archetype>
   </archetypes>
+    </archetype>
+    <archetype>
+      <groupId>edu.uchicago.mpcs53013</groupId>
+      <artifactId>speed-layer-weather-archetype</artifactId>
+      <version>10.0.0</version>
+      <repository>https://repo1.maven.org/maven2/</repository>
+      <description>Create a Spark Scala streaming program that reads simulated weather reports from Kafka and stores them in the latest_weather table in HBase</description>
+    </archetype>
 </archetype-catalog>
