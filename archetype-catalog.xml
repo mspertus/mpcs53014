@@ -932,5 +932,12 @@
       <repository>https://repo1.maven.org/maven2/</repository>
       <description>Creates an example program that serializes thrift weather summaries to HDFS sequence files</description>
     </archetype>
+    <archetype>
+      <groupId>edu.uchicago.mpcs53013</groupId>
+      <artifactId>spark-scala-word-count-archetype</artifactId>
+      <version>10.0.0</version>
+      <repository>https://repo1.maven.org/maven2/</repository>
+      <description>Create a Spark Scala WordCount program similar to that in O'Reilly Learning Spark book</description>
+    </archetype>
   </archetypes>
 </archetype-catalog>
