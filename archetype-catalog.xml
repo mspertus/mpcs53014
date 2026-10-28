@@ -946,5 +946,19 @@
       <repository>https://repo1.maven.org/maven2/</repository>
       <description>Ingest real-time flight data from FlightAware into a Kafka topic</description>
     </archetype>
+    <archetype>
+      <groupId>edu.uchicago.mpcs53013</groupId>
+      <artifactId>spark-scala-kafka-word-count-archetype</artifactId>
+      <version>11.0.0</version>
+      <repository>https://repo1.maven.org/maven2/</repository>
+      <description>Create a Spark Scala streaming WordCount program that reads from Kafka</description>
+    </archetype>
+    <archetype>
+      <groupId>edu.uchicago.mpcs53013</groupId>
+      <artifactId>spark-scala-network-word-count-archetype</artifactId>
+      <version>6.0.0</version>
+      <repository>https://repo1.maven.org/maven2/</repository>
+      <description>Create a Spark Scala Network WordCount program similar to that included in the Spark examples</description>
+    </archetype>
   </archetypes>
 </archetype-catalog>
